@@ -1,5 +1,6 @@
 # JUiUx-projects
-#⭐ UI/UX Case Study – Project Name
+#⭐ UI/UX Case Study – Waygocart order
+
 #📌 Overview
 
 This project focuses on improving the usability, visual clarity, and interaction flow of the application. The goal is to enhance user experience by simplifying navigation, reducing cognitive load, and maintaining visual consistency across the interface.
