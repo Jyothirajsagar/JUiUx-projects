@@ -1,10 +1,10 @@
 # JUiUx-projects
-⭐ UI/UX Case Study – Project Name
-📌 Overview
+#⭐ UI/UX Case Study – Project Name
+#📌 Overview
 
 This project focuses on improving the usability, visual clarity, and interaction flow of the application. The goal is to enhance user experience by simplifying navigation, reducing cognitive load, and maintaining visual consistency across the interface.
 
-🎯 Objectives
+#🎯 Objectives
 
 Improve overall usability
 
@@ -16,7 +16,7 @@ Maintain consistency in colors, spacing, and typography
 
 Create a clean and intuitive modern UI
 
-🔍 UX Process
+#🔍 UX Process
 
 Research – user interviews, competitor study, pain points
 
@@ -30,7 +30,7 @@ Prototype – interactive prototype
 
 Test – usability testing and iterations
 
-🛠️ Tools Used
+#🛠️ Tools Used
 
 Figma
 
@@ -38,7 +38,7 @@ Miro / Notion
 
 Illustrator (optional)
 
-🚀 Key Improvements
+#🚀 Key Improvements
 
 Cleaner navigation
 
@@ -53,4 +53,5 @@ More intuitive component placements
 👤 Designed By
 
 Jyothiraj Sagar
+
 UI/UX Designer
